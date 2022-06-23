@@ -1,5 +1,7 @@
 # hmac-token
 
+Python Version: 3.10.5
+
 There are two python files one is a simple flask API, it is deployed on localhost port 5000 and has only one endpoint: 
 POST /generate-token
 
